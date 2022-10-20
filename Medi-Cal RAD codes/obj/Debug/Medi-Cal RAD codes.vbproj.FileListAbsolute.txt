@@ -1,0 +1,12 @@
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\bin\Debug\Medi-Cal RAD codes.exe.config
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\bin\Debug\Medi-Cal RAD codes.exe
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\bin\Debug\Medi-Cal RAD codes.pdb
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\bin\Debug\Medi-Cal RAD codes.xml
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.vbproj.AssemblyReference.cache
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi_Cal_RAD_codes.Form1.resources
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi_Cal_RAD_codes.Resources.resources
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.vbproj.GenerateResource.cache
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.vbproj.CoreCompileInputs.cache
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.exe
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.xml
+D:\Projects\Medi-Cal RAD codes\Medi-Cal RAD codes\obj\Debug\Medi-Cal RAD codes.pdb
